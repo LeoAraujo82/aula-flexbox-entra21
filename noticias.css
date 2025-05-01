@@ -52,16 +52,17 @@
     margin-top: 150px;
     margin-right: 200px;
     margin-left: 300px;
-    
-
-
-
-
-   
+       
 }
 
 .plano_de_fundo {
     display: flex;
     flex-direction: row;
     background: lightgray;
+}
+
+.materia_secundaria {
+    width: 35px;
+    height: 35px;
+    display:flex;
 }
